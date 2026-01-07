@@ -1,3 +1,1 @@
-The most exciting phrase to hear in science, the one that heralds   
-new discoveries, is not 'Eureka!' but 'That's funny...'   
--- Isaac Asimov   
+Seeking lulz is suffering. Creating lulz is manifesting your true self. - Johnathan Bobbatt III
