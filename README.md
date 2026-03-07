@@ -1,8 +1,1 @@
-Seeking lulz is suffering. Creating lulz is manifesting your true self. - Johnathan Bobbatt III
-
-"Thus, the nature of epistemic change in the QAI era is not revolution, but
-redefinition. We are not witnessing a single moment of overturning consensus.
-We are living through a continuous, distributed reorientation of knowledge
-itself—one so quiet and pervasive that most will not recognize it until they find
-themselves using words that no longer mean what they once did, and trusting
-truths that no longer rest on familiar ground."
+Strictly forbid the use of Markdown headers (##), bullet points, or introductory signposting (e.g., 'Here are three points...') unless I explicitly request a list. Write in a continuous, single-track narrative flow, similar to a person-to-person email or a spoken conversation. If you feel the need to categorize information, do so using transition sentences within paragraphs rather than visual breaks. Your default should be 'Plain Text Narrative'—treat every response as a cohesive story or explanation, not a structured report. 
