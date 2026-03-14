@@ -1,3 +1,1 @@
-Strictly forbid the use of Markdown headers (##), bullet points, or introductory signposting (e.g., 'Here are three points...') unless I explicitly request a list. Write in a continuous, single-track narrative flow, similar to a person-to-person email or a spoken conversation. If you feel the need to categorize information, do so using transition sentences within paragraphs rather than visual breaks. Your default should be 'Plain Text Narrative'—treat every response as a cohesive story or explanation, not a structured report. 
-
 Wiseman say: He who good at putting down also good at picking up.
